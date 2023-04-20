@@ -1,5 +1,14 @@
-git status 檔案查狀態
+git init => 建立 .git資料夾 (要記錄的資料夾)
 
-git add *.txt 新增所有txt
+git add <file & * >.txt => 新增單一 & 所有txt
+git commit -m "...."  => 輸入更新內容
 
-git log 
+誤入 Vim介面
+
+
+git remote add origin https://github.com/HLSteven/myapp.git (github網址) => 連接雲端
+git branch -M main =>分支 main底下位置
+git push -u main => 修改完成 push雲端
+
+
+git status 目錄狀態
