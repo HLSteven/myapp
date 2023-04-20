@@ -1,0 +1,5 @@
+git status 檔案查狀態
+
+git add *.txt 新增所有txt
+
+git log 
